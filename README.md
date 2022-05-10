@@ -1,1 +1,1 @@
-# text_correction_and_translaTion
+# text_correction_and_translation
